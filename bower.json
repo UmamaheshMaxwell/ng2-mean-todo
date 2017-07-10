@@ -1,0 +1,20 @@
+{
+  "name": "ng2-mean-todo",
+  "description": "simple meantodos app",
+  "main": "index.js",
+  "authors": [
+    "Umamaheswararao Meka <uma@olivetech.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
